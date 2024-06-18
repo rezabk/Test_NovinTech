@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iy9YWfeY1t67GZZDBKuAmptSnq2yeLsICPMB6m4k0GsiyfhOlwd0N4Giw18Tj9vUuzyhzH4RtbI1c60wYjWQZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reza\\Desktop\\Test_NovinTech\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reza\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
